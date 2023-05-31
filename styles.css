@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    height:100%;
+    width:100%;
+  }
+  
+  .one {
+    margin: 40px 2px;
+    padding: 20px 10px;
+    background-color: rgb(240,240,240);
+    border: none;
+    border-radius: 10px;
+  }
+  
+  img {
+    width: 98%;
+    height: auto;
+    margin-top: 5px;
+   
+  
+  }
+  
+  .img-div {
+    background-color: white;
+    width: 100%;
+    display: block;
+    height: auto;
+    text-align: center;
+    
+  }
+  
+  #img-caption {
+    padding-bottom: 10px;
+  }
+  
+  #h3 {
+    margin-top: 45px
+  }
+  
+  .tribute-info {
+    text-align: left;
+    display: block;
+    justify-content: space-between;
+  }
+  
+  .info {
+    padding-bottom: 10px;
+  }
+  
+  #h3 {
+    padding-bottom: 20px;
+  }
+  
+  .describe {
+    text-align: left;
+  }
+  
+  .tribute-link {
+    text-align: center;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
